@@ -1,2 +1,0 @@
-# Data_Modeling_With_Postgres_Project
-Data_Modeling_With_Postgres Project
